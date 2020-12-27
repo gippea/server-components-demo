@@ -1,4 +1,4 @@
-import {likeBlogPost} from './blog/blog-api';
+//import {likeBlogPost} from './blog/blog-api'; // Not available in the API
 
 import React from 'react';
 import {useLocation} from './LocationContext.client';
